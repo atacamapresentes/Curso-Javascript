@@ -1,0 +1,27 @@
+Bloco de código para DIV ITEM NÃO CLICADO
+
+   <div id ="contador" class="item-icone">
+               <i class="fa-regular fa-circle"></i>
+            </div>
+            <div class="item-nome">
+                Teste de Tarefa
+            </div>
+            <div class="item-botao">
+                <button class="delete"><i class="fa-solid fa-trash"></i>Deletar</button>
+            </div>
+        </div>`
+
+
+Bloco de código para DIV ITEM CLICADO
+
+<div class="item clicado">
+            <div class="item-icone">
+               <i class="fa-solid fa-circle-check"></i>
+            </div>
+            <div class="item-nome">
+                Teste de Tarefa
+            </div>
+            <div class="item-botao">
+                <button class="delete"><i class="fa-solid fa-trash"></i>Deletar</button>
+            </div>
+        </div>
